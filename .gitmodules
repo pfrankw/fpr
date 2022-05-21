@@ -1,0 +1,6 @@
+[submodule "ext/mbedtls"]
+	path = ext/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "ext/uthash"]
+	path = ext/uthash
+	url = https://github.com/troydhanson/uthash.git
